@@ -5,6 +5,7 @@ This website is built for people to plan and write everyday schedule.
 ## Methods Used :
 1.jQuery
 2.HTML
+3.Css
 3.Moment.js
 4.Bootstrap
 
