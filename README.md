@@ -17,7 +17,7 @@ This website is built for people to plan and write everyday schedule.
 ![](assets/images/screenshot.png)
 
 ## Deplyed link
-[find the deployed link to the website here]()
+[find the deployed link to the website here](https://oindrila11.github.io/workday-schedule-octo-12/)
 
 
 ## License & Copyright
